@@ -1,7 +1,7 @@
 # repo_SI_licencias_1
 
 #1.
-Este archio tiene una licencia tipo "MIT".
+Este archivo tiene una licencia tipo "MIT".
 
 
 El creador no se responsabiliza de su  distribución.
